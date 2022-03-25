@@ -1,0 +1,32 @@
+#mainCentro nav{
+    background-color: transparent;
+}
+
+#mainCentro nav span{
+    color: black;
+}
+
+#mainCentro h6{
+    text-align: center;
+}
+
+#mainCentro {
+    border-radius: 16px;
+    border: 1px solid white;
+}
+
+#mainUsuario{
+    border: 2px solid white;
+}
+
+
+#imagenesBase{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#mainUsuario img{
+background-color: transparent;
+}
+
